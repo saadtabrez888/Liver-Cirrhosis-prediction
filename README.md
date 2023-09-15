@@ -1,1 +1,1 @@
-# Liver-Cirrhosis-prediction
+# Liver-Cirrhosis-Prediction
